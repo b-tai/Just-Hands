@@ -8,9 +8,10 @@ To run in the command-line:
 	node lights.js
 
 Gestures (takes into account palm movement):
+
 	Right: LED port 13 on
 	Left: LED port 13 off
-
+	
 	Down: LED port 9 on
 	Up: LED port 9 off
 
